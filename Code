@@ -3,7 +3,7 @@ Add-Type -AssemblyName WindowsBase
 Add-Type -AssemblyName PresentationCore
 
 
-Write-Output "Welcome to akidinatophat's LanSchool Air Terminator V1.2! Opened at "(get-date).ToString('T');
+Write-Output "Welcome to mzxro's LanSchool Air Terminator V1.1! Opened at "(get-date).ToString('T');
 
 Write-Output "To abort at any time, press ESC."
 
